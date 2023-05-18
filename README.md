@@ -1,8 +1,6 @@
-# Blog 
+# Blog
 
-![Imagem Blog](src/img/blog.png)
-
-### TECNOLOGIAS 
+## TECNOLOGIAS
 
 - Css
 - JavaScript
