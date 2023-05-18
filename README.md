@@ -1,6 +1,6 @@
 # Blog 
 
-![Imagem Blog](/src/img/blog.png)
+![Imagem Blog](src/img/blog.png)
 
 ### TECNOLOGIAS 
 
